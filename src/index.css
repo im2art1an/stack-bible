@@ -1,0 +1,5 @@
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; padding: 0; background: #05050b; color: #e8e8f0; -webkit-font-smoothing: antialiased; }
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-thumb { background: #2a2a3e; border-radius: 2px; }
+input, button { font-family: inherit; }
